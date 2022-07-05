@@ -11,7 +11,7 @@
 
  ##
  
-<div id = 'icones' align="left">
+<div align="left">
   <br>
   <br>
   <br>
