@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Jeff!👋 
 
-<!–- ![3Pz9](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif) -->
+![3Pz9](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif)
 
 <div align="center">
   <a href="https://github.com/jhmcarvalho">
- <img height="213em" align=left src="https://github-readme-stats.vercel.app/api?username=jhmcarvalho&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+ <!--img height="213em" align=left src="https://github-readme-stats.vercel.app/api?username=jhmcarvalho&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/-->
  <!img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhmcarvalho&layout=compact&langs_count=7&theme=dark"/>
  
 </div>
