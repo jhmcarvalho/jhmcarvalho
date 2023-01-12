@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jeff!👋 
 
-##![3Pz9](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif)
+<!–- ![3Pz9](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif) -->
 
 <div align="center">
   <a href="https://github.com/jhmcarvalho">
