@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Jeff!👋 
 
-![GIF do Jeff](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif)
+<!--![GIF do Jeff](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif) -->
+
+![xK](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/ed812718-95e4-4929-bede-dd84c9a9fbaf)
 
   <a href="https://www.linkedin.com/in/jeferson-martins-b4b060233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jhmcarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
