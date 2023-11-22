@@ -2,7 +2,7 @@
 <!-- MOSTRAR STREAK [![GitHub Streak](https://streak-stats.demolab.com/?user=jhmcarvalho&theme=dark)](https://git.io/streak-stats) --> 
 <!--![GIF do Jeff](https://user-images.githubusercontent.com/53948877/177198274-d7e74de7-abc8-4e1f-b2af-044264b732bb.gif) -->
 
-<!--![gif1](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/ed812718-95e4-4929-bede-dd84c9a9fbaf) -->
+
 <div align="center">
 <img src="https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/8f102136-cd9e-4d22-8b01-b17bcbf917b6" width="110">
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" width="110"> 
@@ -22,8 +22,8 @@
 </div>  
 
 ---
-
-![gif2](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/37687539-c0ab-42d8-8d86-dd64343a771e)
+![gif1](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/ed812718-95e4-4929-bede-dd84c9a9fbaf) >
+<!--![gif2](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/37687539-c0ab-42d8-8d86-dd64343a771e) -->
 
   <a href="https://www.linkedin.com/in/jeferson-martins-b4b060233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jhmcarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
