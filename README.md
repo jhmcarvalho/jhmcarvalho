@@ -21,6 +21,8 @@
 
 </div>  
 
+---
+
 ![gif2](https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/37687539-c0ab-42d8-8d86-dd64343a771e)
 
   <a href="https://www.linkedin.com/in/jeferson-martins-b4b060233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
