@@ -25,7 +25,6 @@
 <div>
   <a href="https://www.linkedin.com/in/jeferson-carvalho-b4b060233/" target="_blank"><img src="https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/b5b8ddd4-3e86-4105-8e36-264b3cea8b28" width="90" target="_blank"></a>
   <a href="https://instagram.com/jhmcarvalho" target="_blank"><img src="https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/b15e54d2-4b87-4467-8037-338cb18e66ea" width="110" target="_blank"></a>
-  <a href = "mailto:jeferson_funet@hotmail.com"><img src="https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/9faed33b-52f8-46f1-a402-8b9cfe24f837" width="110" target="_blank"></a>
  <!-- <a href="https://www.twitch.tv/JeCarvalho_0" target="_blank"><img src="https://github.com/jhmcarvalho/jhmcarvalho/assets/53948877/4059775a-2661-43df-b3b9-789021f547d9" height="100" width="140" target="_blank"></a> -->
 </div>
 
